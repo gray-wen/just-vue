@@ -1,0 +1,14 @@
+{
+  "name": "just-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "eslint-init": "./node_modules/.bin/eslint --init"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
