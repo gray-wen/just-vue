@@ -16,7 +16,7 @@ function JustVue(data, element, exp) {
     });
     return this;
 }
-
+//
 JustVue.prototype = {
     proxyKey: function (key) {
         var that = this;
